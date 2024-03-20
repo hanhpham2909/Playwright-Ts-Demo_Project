@@ -82,4 +82,12 @@ Tóm lại, [newPage] là cách để lấy giá trị trả về từ promise c
 Implementing Page Object Model
 
 
+## SCENARIO 7
 
+# Request: ![alt text](image-7.png)
+
+# GOAL: 
+- Enhancing Debugging and Element Interaction
+
+# Practice
+1. Viết câu lệnh run test: npx playwright test --ui
