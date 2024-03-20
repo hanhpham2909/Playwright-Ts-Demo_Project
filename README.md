@@ -75,7 +75,8 @@ Tóm lại, [newPage] là cách để lấy giá trị trả về từ promise c
 
 ## SCENARIO 6
 
-# Request: 
+# Request: ![alt text](image-6.png)
+- Using scenario 1, 2 to do excersice 
 
 # GOALS
 Implementing Page Object Model
